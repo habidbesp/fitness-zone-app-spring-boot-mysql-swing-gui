@@ -43,7 +43,7 @@ The following diagram illustrates the architecture of the **Fitness Zone (GYM)**
 
 Below is the architecture diagram of the application:
 
-<img alt="Architecture Diagram" src="docs/images/Application%20Architecture.png" width="600"/>
+<img alt="Architecture Diagram" src="docs/images/Application%20Architecture%20Diagram.drawio.png" width="600"/>
 
 
 ## Contributions
