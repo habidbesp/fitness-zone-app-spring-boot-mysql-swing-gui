@@ -1,4 +1,4 @@
-![Java](https://img.shields.io/badge/Java-17-orange)
+![Java](https://img.shields.io/badge/Java-21-orange)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue)
 ![Spring](https://img.shields.io/badge/Spring-Boot-green)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
